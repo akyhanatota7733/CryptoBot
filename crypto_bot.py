@@ -11,6 +11,7 @@ import sys
 from time import sleep
 from threading import Thread 
 import matplotlib.pyplot as plt  
+plt.switch_backend('Agg')
 db = simple_db.Simple_DB('database/database.db')
 db.create_table('users', 'id INTEGER; subscription BOOL; rang TEXT; activ INTEGER; data TEXT; StartBot TEXT; FIO TEXT; TIMEGMT TEXT')
 now = datetime.datetime.now()
