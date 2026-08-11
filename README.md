@@ -5,4 +5,7 @@ crypto_bot.py - главный исполняемый файл
 
 setting.ini - конфиг для данных по типу апи телеграм бота и прочее
 
+<img width="710" height="550" alt="изображение" src="https://github.com/user-attachments/assets/f36ee8d3-7233-4588-98f8-bd9807d3ccd2" />
+
+
 ![no_subscription](images/no_subscription.jpg)
