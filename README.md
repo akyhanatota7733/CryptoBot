@@ -9,6 +9,3 @@ setting.ini - конфиг для данных по типу апи телегр
 
 <img width="709" height="537" alt="изображение" src="https://github.com/user-attachments/assets/029a0805-1f28-4e70-9be6-3267b2d62302" />
 
-
-
-![no_subscription](images/no_subscription.jpg)
