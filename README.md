@@ -7,7 +7,8 @@ setting.ini - конфиг для данных по типу апи телегр
 
 <img width="710" height="550" alt="изображение" src="https://github.com/user-attachments/assets/f36ee8d3-7233-4588-98f8-bd9807d3ccd2" />
 
-<img width="1920" height="1080" alt="изображение" src="https://github.com/user-attachments/assets/72d4ff68-0471-486a-9778-918c2f163b0b" />
+<img width="709" height="537" alt="изображение" src="https://github.com/user-attachments/assets/029a0805-1f28-4e70-9be6-3267b2d62302" />
+
 
 
 ![no_subscription](images/no_subscription.jpg)
